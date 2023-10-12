@@ -20,9 +20,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "canvaskit/skwasm.worker.js": "51253d3321b11ddb8d73fa8aa87d3b15",
 =======
 const RESOURCES = {"version.json": "98774d0b9a26dc6f21f8dd3f48d48996",
-"index.html": "cb5b06b8e5512f53cb186947fb501e44",
-"/": "cb5b06b8e5512f53cb186947fb501e44",
-"main.dart.js": "011e17e64671c398fe8d4442ab60032f",
+"index.html": "095c269ae6e6e29ea60b7d80c2864850",
+"/": "095c269ae6e6e29ea60b7d80c2864850",
+"main.dart.js": "bf1bc818c7f26900b4258aa8be04ef38",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 >>>>>>> parent of 9635a5c (fix bugs)
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
