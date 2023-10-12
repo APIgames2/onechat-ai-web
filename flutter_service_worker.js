@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -17,17 +18,44 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "canvaskit/skwasm.js": "95f16c6690f955a45b2317496983dbe9",
 "canvaskit/skwasm.wasm": "1a074e8452fe5e0d02b112e22cdcf455",
 "canvaskit/skwasm.worker.js": "51253d3321b11ddb8d73fa8aa87d3b15",
+=======
+const RESOURCES = {"version.json": "98774d0b9a26dc6f21f8dd3f48d48996",
+"index.html": "cb5b06b8e5512f53cb186947fb501e44",
+"/": "cb5b06b8e5512f53cb186947fb501e44",
+"main.dart.js": "011e17e64671c398fe8d4442ab60032f",
+"flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
+>>>>>>> parent of 9635a5c (fix bugs)
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+<<<<<<< HEAD
 "index.html": "8563c8a9462281218944aa882d7e888a",
 "/": "8563c8a9462281218944aa882d7e888a",
 "main.dart.js": "509fba02678d32d8adb43f8e0f6cfa5c",
 "manifest.json": "74f407b8f5a31866c3e4b7b5d673714c",
 "version.json": "98774d0b9a26dc6f21f8dd3f48d48996"};
+=======
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"manifest.json": "2c8c135aa0095af6e7fbd1dc5ca681ce",
+"assets/AssetManifest.json": "6c809323444454d2e8e853f4b430360a",
+"assets/NOTICES": "1c9c024e5695c83b7cec65374471ac09",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "c7ecf1247123ff866dedfa4fc4f0232b",
+"assets/packages/elegant_notification/assets/icons/info.png": "84b36b60ddacca6c063112fd636bdefb",
+"assets/packages/elegant_notification/assets/icons/error.png": "2a84d22ca4a8d9123f1e3149121b0976",
+"assets/packages/elegant_notification/assets/icons/success.png": "a27784120d6634f48b24e12c4604f9d9",
+"assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
+"assets/AssetManifest.bin": "6e4f1f389bd51c036c91458149637250",
+"assets/fonts/MaterialIcons-Regular.otf": "ac2fa360469693b034ce5f44fc784e7e",
+"canvaskit/skwasm.js": "1df4d741f441fa1a4d10530ced463ef8",
+"canvaskit/skwasm.wasm": "6711032e17bf49924b2b001cef0d3ea3",
+"canvaskit/chromium/canvaskit.js": "8c8392ce4a4364cbb240aa09b5652e05",
+"canvaskit/chromium/canvaskit.wasm": "fc18c3010856029414b70cae1afc5cd9",
+"canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
+"canvaskit/canvaskit.wasm": "f48eaf57cada79163ec6dec7929486ea",
+"canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a"};
+>>>>>>> parent of 9635a5c (fix bugs)
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
